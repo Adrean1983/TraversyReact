@@ -8,8 +8,7 @@ class App extends Component {
       <div className="App">
         <ol style={listStyle}>
           <li>Make a class component called Todos. Make a h1 tag called Todos and display</li>
-          <li>Add three todo items using state. They have a titled and completed. Pass the state to App and todos and display.</li>
-          <li>Need to add a TodoItem Class Component . Display in a p tag The title of these componets</li>
+          <li>Add three todo items using state. They have a titled and completed. Pass the state to App and todos and display. Need to add a TodoItem Class Component . Display in a p tag The title of these componets</li>
           <li>Add Css styling to the todoItems component. Use a function. </li>
           <li>Conditionally show a line through background: '#f4f4f4',padding: '10px',borderBottom: '1px #ccc dotted',</li>
           <li>Add a checkbox to the todo items. And a method to mark items complete markComplete and console.log "hello". Climb the ladder to the App.js</li>
