@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 
 class App extends Component {
-
+  
   render() {
     return (
       <div className="App">
@@ -29,6 +29,7 @@ class App extends Component {
 
 const listStyle = {
   fontSize: "12px",
-  margin: "2px"
+  margin: "2px",
+  padding: "16px"
 }
 export default App;
